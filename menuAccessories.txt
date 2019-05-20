@@ -1,0 +1,28 @@
+Accessories:
+GEdit Text Editor 
+Pluma Text Editor
+Vim
+Calculator
+Font Viewer
+Screenshot
+ConvertAll
+Gip IP Address Calculator
+Engrampa Archive Manager
+KeePassXC
+GPA
+SiriKali
+Redshift
+UNetbootin
+Etcher
+Stacer
+UPnP Router Control
+ClamTK
+Visual Studio Code
+DB Browser for SQLite
+Midnight Commander editor
+Ampare Markdown Editor
+GVim
+Mark Text
+Smb4k
+
+

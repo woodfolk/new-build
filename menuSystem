@@ -1,0 +1,54 @@
+System:
+Preference:
+	Hardware:
+		Additional Drivers
+		Bluetooth Adapters
+		Bluetooth Manager
+		Disk
+		Display
+		KDE Connect Settings
+		Keyboard
+		Keyboard Shortcuts
+		Mouse
+		Power Management
+		Sound
+	Internet and Network:
+		Firewall Configuration
+		Network Connections
+		Network Proxy
+	Look and Feel:
+		Appearance
+		KDE Connect Settings
+		Main Menu
+		MATE Tweak
+		Oomox: customized icons and GTK Themes
+		Popup Notifications
+		Screensaver
+		Windows
+	Other:
+		IcedTea Web Control Panel
+		TeXdoctk
+	Personal:
+		About Me
+		Adobe Flash Player
+		Assistive Technologies
+		File Management
+		Lauguage Support
+		Onboard Settings
+		Preference Applications
+		Startup Applications
+Administration:
+	Login Window
+	Network
+	NTFS Configuration Tool
+	Printers
+	Samba
+	Shared Folders
+	Software Boutique
+	Software Updater
+	Software & Updates
+	Startup Disk Creator
+	Synaptic Package Manager
+	Time and Date
+	Users and Groups
+	Welcome
